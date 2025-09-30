@@ -4,7 +4,7 @@
 ---
 
 ### 🌐 Where to find me
-<p align="left">
+<p align="center">
   <a href="https://github.com/icelingg" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-icelingg-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://github.com/icelingg/icelingg/issues" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Issues-Open%20a%20thread-5C2D91?style=for-the-badge&logo=github" alt="Issues" /></a>
   <a href="mailto:icelingg@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-icelingg@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -17,7 +17,7 @@ Since 2021, efforts have been made to explore the development and application in
 
 ### 🧰 Toolbox
 
-<table>
+<table align="center">
   <tr>
     <td>
       <strong>AI &amp; Data</strong><br>
@@ -53,6 +53,7 @@ Since 2021, efforts have been made to explore the development and application in
 </table>
 
 <p align="center">Thanks for visiting — see you in the next commit! ✨</p>
+
 
 
 
